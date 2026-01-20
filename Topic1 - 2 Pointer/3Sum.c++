@@ -1,4 +1,5 @@
 // & Question :- 3 Sum
+// ^ Leetcode link :- https://leetcode.com/problems/3sum/description/?source=submission-ac
 // * Brute Force Approach :-
 
 #include <iostream>
@@ -171,6 +172,8 @@ int main()
 // S.C = O(1)
 
 // & Question :- 3 Sum closest
+// ^ Leetcode link :- https://leetcode.com/problems/3sum-closest/description/?source=submission-ac
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
