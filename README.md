@@ -15,7 +15,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 5 | 20-01-2026 | Two Pointers | 16. 3Sum Closest | LeetCode | [View Problem](https://leetcode.com/problems/3sum-closest/description/?source=submission-ac) | [Solution](https://leetcode.com/problems/3sum-closest/post-solution/?submissionId=1891162459) | [Notes](https://drive.google.com/file/d/1cmK67vTSkELy2P9LFUQkBupwkF0oxCLF/view?usp=sharing) | ✅ Solved |
 | 6 | 21-01-2026 | Two Pointers | Triplets with Smaller Sum | GeeksforGeeks | [View Problem](https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1) | Problem solved on gfg thats why no solution link | [Notes](https://drive.google.com/file/d/1f9RnxlCgSOCqcQq4eIrBKPyAOo9mQITz/view?usp=sharing) | ✅ Solved |
 | 7 | 21-01-2026 | Two Pointers | 75. Sort Colors | LeetCode | [View Problem](https://leetcode.com/problems/sort-colors/description/?source=submission-ac) | [Solution](https://leetcode.com/problems/sort-colors/post-solution/?submissionId=1892433326) | [Notes](https://drive.google.com/file/d/1yoitXxReo8p-tkRtUJQuv-H0kcALgL6f/view?usp=sharing) | ✅ Solved |
-
+| 8 | 22-01-2026 | Two Pointers | Revision of 2 Pointer Pattern | - | - | - | [Notes](https://drive.google.com/file/d/14HsjbtNDgtACRLJ4Xbh6_j2i4G4q2lGE/view?usp=sharing) | 🔁 Revision |
 <!-- Add new rows below this line -->
 ---
 
