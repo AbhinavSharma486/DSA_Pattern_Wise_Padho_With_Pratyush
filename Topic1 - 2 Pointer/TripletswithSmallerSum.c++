@@ -49,12 +49,53 @@ int main()
   return 0;
 }
 
+// Revision of above code
+#include <iostream>
+#include <algorithm>
+using namespace std;
+long long countTriplets(int n, int sum, int arr[])
+{
+  // sort the array
+  sort(arr, arr + n);
 
+  // store the count of triplets
+  int count = 0;
 
+  // traverse the array
+  for (int i = 0; i < n - 2; i++)
+  {
+    int left = i + 1;
+    int right = n - 1;
 
+    // two pointer approach
+    while (left < right)
+    {
+      int s = arr[i] + arr[left] + arr[right];
 
+      // if sum is greater than or equal to given sum
+      if (s >= sum)
+      {
+        right--;
+      }
+      else
+      { // if sum is smaller than given sum
+        count = count + (right - left);
+        left++;
+      }
+    }
+  }
 
+  return count;
+}
+int main()
+{
+  int n = 4;
+  int sum = 2;
+  int arr[] = {-2, 0, 1, 3};
 
+  cout << "Count of triplets is " << countTriplets(n, sum, arr);
+  return 0;
+}
 
 // * Question :- Dutch National Flag Problem
 // & Link :- https://leetcode.com/problems/sort-colors/
@@ -126,8 +167,6 @@ int main()
   return 0;
 }
 
-
-
 // ^ Method 2 :- Optimal approach
 
 #include <iostream>
@@ -194,9 +233,6 @@ int main()
   return 0;
 }
 
-
-
-
 // ^ Method 3 :- Best Approach (2 Pointer Approach with Dutch National Flag Algorithm)
 #include <iostream>
 #include <vector>
@@ -219,6 +255,56 @@ vector<int> sortColors(vector<int> &nums)
     {
       mid++;
     }
+    else
+    {
+      swap(nums[mid], nums[high]);
+      high--;
+    }
+  }
+
+  return nums;
+}
+int main()
+{
+  vector<int> nums = {2, 0, 2, 1, 1, 0};
+  vector<int> result = sortColors(nums);
+
+  cout << "Sorted array is : ";
+
+  for (int i = 0; i < result.size(); i++)
+  {
+    cout << result[i] << " ";
+  }
+
+  return 0;
+}
+
+// Revision of above code
+
+#include <iostream>
+#include <vector>
+using namespace std;
+vector<int> sortColors(vector<int> &nums)
+{
+  int n = nums.size();
+
+  int low = 0, mid = 0, high = n - 1;
+
+  // two pointer approach
+  while (mid <= high)
+  {
+    if (nums[mid] == 0)
+    {
+      swap(nums[low], nums[mid]);
+      low++;
+      mid++;
+    }
+
+    else if (nums[mid] == 1)
+    {
+      mid++;
+    }
+
     else
     {
       swap(nums[mid], nums[high]);

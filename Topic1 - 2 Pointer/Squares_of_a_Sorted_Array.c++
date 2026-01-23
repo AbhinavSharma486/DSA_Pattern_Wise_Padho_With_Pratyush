@@ -124,9 +124,6 @@ int main()
   return 0;
 }
 
-
-
-
 // * Method 2 (Optimized) :- Two Pointer Approach
 // Time Complexity : O(n) ✅
 // Space Complexity : O(n) ✅ (no extra vectors)
@@ -161,6 +158,60 @@ vector<int> squareOfSortedArray(vector<int> &nums)
       right--;
     }
     idx--;
+  }
+
+  return res;
+}
+
+int main()
+{
+  vector<int> nums = {-4, -1, 0, 3, 10};
+
+  vector<int> result = squareOfSortedArray(nums);
+
+  for (int i = 0; i < result.size(); i++)
+  {
+    cout << result[i] << " ";
+  }
+
+  return 0;
+}
+
+
+
+
+// Revision of above code
+#include <iostream>
+#include <vector>
+using namespace std;
+
+vector<int> squareOfSortedArray(vector<int> &nums)
+{
+  int n = nums.size();
+
+  vector<int> res(n);
+
+  int left = 0;
+  int right = n - 1;
+  int idx = n - 1;
+
+  while (left <= right)
+  {
+    int leftSqr = nums[left] * nums[left];
+    int rightSqr = nums[right] * nums[right];
+
+    if (leftSqr < rightSqr)
+    {
+      res[idx] = rightSqr;
+      right--;
+      idx--;
+    }
+    else
+    {
+      res[idx] = leftSqr;
+      left++;
+      idx--;
+    }
   }
 
   return res;
