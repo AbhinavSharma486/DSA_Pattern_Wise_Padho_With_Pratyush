@@ -37,8 +37,9 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 25   | 28-01-2026 | Sliding Window | - | - | - | - | [Notes](https://drive.google.com/file/d/1rSZx7w482l6CsuodHUKtEffB0ahpYwvL/view?usp=sharing) | 🔁 Revision |
 | 26   | 29-01-2026 | Sliding Window | - | - | - | - | [Notes](https://drive.google.com/file/d/1fdeBK4suZMy8DoeX9D9v8FC_8Bh5FCzB/view?usp=sharing) | 🔁 Revision |
 | 27   | 29-01-2026 | Sliding Window   | 209. Minimum Size Subarray Sum | LeetCode | [View Problem](https://leetcode.com/problems/minimum-size-subarray-sum/description/?source=submission-ac) | [Solution](https://leetcode.com/problems/minimum-size-subarray-sum/post-solution/?submissionId=1900781821) | [Notes](https://drive.google.com/file/d/1fdeBK4suZMy8DoeX9D9v8FC_8Bh5FCzB/view?usp=sharing) | 🔁 Revision |
+| 28   | 30-01-2026 | Sliding Window   | 78. Minimum Window Substring | LeetCode | [View Problem](https://leetcode.com/problems/minimum-window-substring/description/) | - | [Notes](https://drive.google.com/file/d/1O0l4CJ3EHqym95uCjfB6Z3JI3ftg2qHF/view?usp=sharing) | 🔁 Revision |
+| 29   | 30-01-2026 | Slow & Fast Pointer   | 141. Linked List Cycle | LeetCode | [View Problem](https://leetcode.com/problems/linked-list-cycle/description/?source=submission-ac) | [Solution](https://leetcode.com/problems/linked-list-cycle/post-solution/?submissionId=1903708740) | [Notes](https://drive.google.com/file/d/1ZSrB2D05cUYBGyqiRC8yZYJZbOVtmohi/view?usp=sharing) | ✅ Intro + Solved |
 <!-- Add new rows below this line -->
-
 ---
 
 *"The journey of a thousand problems begins with a single solution."*
