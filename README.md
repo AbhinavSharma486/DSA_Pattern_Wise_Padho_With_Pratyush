@@ -45,6 +45,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 33   | 04-02-2026 | Slow & Fast Pointer   | 287. Find the Duplicate Number | LeetCode | [View Problem](https://leetcode.com/problems/find-the-duplicate-number/description/?source=submission-ac) | [Solution](https://leetcode.com/problems/find-the-duplicate-number/post-solution/?submissionId=1906553142) | [Notes](https://drive.google.com/file/d/1Auq7B-ET6gwCSVxPp_BLcXyACWKPhXN1/view?usp=sharing) | ✅ Solved |
 | 34   | 04-02-2026 | Slow & Fast Pointer   | 202. Happy Number | LeetCode | [View Problem](https://leetcode.com/problems/happy-number/description/?source=submission-ac) | [Solution](https://leetcode.com/problems/happy-number/post-solution/?submissionId=1906627681) | [Notes](https://drive.google.com/file/d/1KN769J4Hczayeuf4ZzE7j8nHmBh1pxXY/view?usp=sharing) | ✅ Solved |
 | 35   | 05-02-2026 | Slow & Fast Pointer 🔁 Complete Revision   | - | - | - | - | [Notes](https://drive.google.com/file/d/1V3d_odJH_z_22NO7i9JY_syM-0lB0Mfj/view?usp=sharing) | 🔁 Revision |
+| 36   | 06-02-2026 | Kadane's Algo. | - | - | - | - | [Notes](https://drive.google.com/file/d/1zVhIH9Q5hEt5OCUraQBp8X0a6ikWFg5X/view?usp=sharing) | ✅ Intro |
 <!-- Add new rows below this line -->
 ---
 
