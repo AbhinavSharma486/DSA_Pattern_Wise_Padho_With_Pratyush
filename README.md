@@ -49,6 +49,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 37   | 06-02-2026 | Kadane's Algo. | 53. Maximum Subarray | LeetCode | [View Problem](https://leetcode.com/problems/maximum-subarray/description/?source=submission-ac) | [Solution](https://leetcode.com/problems/maximum-subarray/post-solution/?submissionId=1909769033) | [Notes](https://drive.google.com/file/d/1Efc6vxDaWnCWb95FIjVbgV4CVXSOkV_n/view?usp=sharing) | ✅ Solved |
 | 38   | 06-02-2026 | Kadane's Algo. | Smallest sum contiguous subarray (Minimum Subarray) | GFG | [View Problem](https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1) | - | [Notes](https://drive.google.com/file/d/1Y7VbYys4ByeRKakdvte4KM5DVSa_zYjh/view?usp=sharing) | ✅ Solved |
 | 39   | 06-02-2026 | Kadane's Algo. | 152. Maximum Product Subarray | LeetCode | [View Problem](https://leetcode.com/problems/maximum-product-subarray/description/?utm_source=chatgpt.com) | [Solution](https://leetcode.com/problems/maximum-product-subarray/post-solution/?submissionId=1909772766) | [Notes](https://drive.google.com/file/d/163-631_KV1czmrZ5gNmEWzJT5sNeRfKa/view?usp=sharing) | ✅ Solved |
+| 39   | 07-02-2026 | Kadane's Algo. | 152. Maximum Product Subarray | LeetCode | [View Problem](https://leetcode.com/problems/maximum-product-subarray/description/?utm_source=chatgpt.com) | [Solution](https://leetcode.com/problems/maximum-product-subarray/post-solution/?submissionId=1909772766) | - | 🔁 Revision |
 <!-- Add new rows below this line -->
 ---
 
