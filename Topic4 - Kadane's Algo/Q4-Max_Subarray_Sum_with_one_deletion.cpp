@@ -9,49 +9,50 @@ int maximumSum(vector<int> &arr)
 {
   int n = arr.size();
 
-  // noDelete : max. sum of subarray ending at curr. index with no deletion
+  // Edge case : if array has only one element
+  if (n == 1)
+  {
+    return arr[0];
+  }
+
+  // Step 1 :
+  // noDelete : max Subarray sum ending at curr. idx. without any deletion
+  // oneDelete : max Subarray sum ending at curr. idx. with one deletion
+
   int noDelete = arr[0];
-
-  // oneDelete : max. sum of subarray ending at curr. index with one deletion
   int oneDelete = INT_MIN;
-
-  // result : stores the overall max. sum of subarray with at most one deletion
   int result = arr[0];
 
-  // traverse the array from idx 1
+  // Traverse the array
   for (int i = 1; i < n; i++)
   {
-    // store previous noDelete before updating
+    // store the previous values before updaing
     int prevNoDelete = noDelete;
-
-    // store the previous oneDelete before updating
     int prevOneDelete = oneDelete;
 
-    // update noDelete
-    // either noDelete + arr[i] or arr[i] at curr. index
-    noDelete = max(noDelete + arr[i], arr[i]);
+    // Step 2 : Update noDelete
+    // case 1 : extend the previous subarray with curr. element : prevNoDelete + arr[i];
+    // case 2 : start fresh from curr. element : arr[i];
 
-    int v2;
+    noDelete = max(prevNoDelete + arr[i], arr[i]);
 
-    // if no subarray with one deletion existed before,
-    // we cannot extend it, so start fresh from curr. element
+    // Step 3 : Update oneDelete
+    // case 1 : we already deleted earlier then extend that subarray : prevOneDelete + arr[i];
+    // case 2 : we can delete curr. element so we take previous noDelete : prevNoDelete;
+
+    // means we have not used deletion before,
+    // so only option is to delete the curr. element
     if (prevOneDelete == INT_MIN)
     {
-      v2 = arr[i];
+      oneDelete = prevNoDelete; // here we are deleting the curr. element
     }
-
-    // otherwise, extend the previous one delete subarray by adding the curr. element
     else
     {
-      v2 = prevOneDelete + arr[i];
+      oneDelete = max(prevOneDelete + arr[i], prevNoDelete);
     }
 
-    // now update oneDelete
-    // max of v2 and prevNoDelete(here curr. element is prevNoDelete)
-    oneDelete = max(v2, prevNoDelete);
-
-    // update the overall result
-    result = max(result, max(oneDelete, noDelete));
+    // Step 4 : Update result
+    result = max(result, max(noDelete, oneDelete));
   }
 
   return result;
