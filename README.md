@@ -57,6 +57,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 45   | 11-02-2026 | Start of Linkedlist Cycle | - | - | - | - | [Notes](https://drive.google.com/file/d/14XnpqM0ZhInt9DPB4XP8wvG9WVlhu3DQ/view?usp=sharing) | 🔁 Revision |
 | 46   | 12-02-2026 | Prefix Sum Pattern Intro | - | - | - | - | [Notes](https://drive.google.com/file/d/11SaHONzsJxVf4mb2W6iHRMVbsbf_IqW-/view?usp=sharing) | ✅ Intro |
 | 47   | 12-02-2026 | Prefix Sum Pattern | 724. Find Pivot Index | LeetCode | [View Problem](https://leetcode.com/problems/find-pivot-index/description/) | [Solution](https://leetcode.com/problems/find-pivot-index/post-solution/?submissionId=1916819207) | [Notes](https://drive.google.com/file/d/1HqmIyFrc8GPMCPDOSsmyS4KMFr_WVUWZ/view?usp=sharing) | ✅ Solved |
+| 48   | 13-02-2026 | Prefix Sum Pattern | 560. Subarray Sum Equals K | LeetCode | [View Problem](https://leetcode.com/problems/subarray-sum-equals-k/description/) | [Solution](https://leetcode.com/problems/subarray-sum-equals-k/post-solution/?submissionId=1917804005) | [Notes 1](https://drive.google.com/file/d/17_mtbl4tpONi5qwnAz45fr7tDDWcEV5l/view?usp=sharing) [Notes 2](https://drive.google.com/file/d/10LhmQ4GoOCwYnbPgnt8dIPGcMa1kdSgB/view?usp=sharing) | ✅ Solved |
 <!-- Add new rows below this line -->
 ---
 
