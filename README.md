@@ -55,6 +55,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 43   | 10-02-2026 | Kadane's Algo. | 918. Maximum Sum Circular Subarray | LeetCode | [View Problem](https://leetcode.com/problems/maximum-sum-circular-subarray/description/?utm_source=chatgpt.com) | [Solution](https://leetcode.com/problems/maximum-sum-circular-subarray/post-solution/?submissionId=1914630321) | [Notes](https://drive.google.com/file/d/1kRM2RdLlKjw14ImvIJ_YkNcmCmgUO9ef/view?usp=sharing) | ✅ Solved |
 | 44   | 10-02-2026 | Kadane's Algo. Complete Revision | - | - | - | - | [Notes](https://drive.google.com/file/d/119h-fuO0lbBMH81uK8KWGKNkwUjfQJk9/view?usp=sharing) | 🔁 Revision |
 | 45   | 11-02-2026 | Start of Linkedlist Cycle | - | - | - | - | [Notes](https://drive.google.com/file/d/14XnpqM0ZhInt9DPB4XP8wvG9WVlhu3DQ/view?usp=sharing) | 🔁 Revision |
+| 46   | 12-02-2026 | Prefix Sum Pattern Intro | - | - | - | - | [Notes](https://drive.google.com/file/d/11SaHONzsJxVf4mb2W6iHRMVbsbf_IqW-/view?usp=sharing) | ✅ Intro |
 <!-- Add new rows below this line -->
 ---
 
