@@ -63,6 +63,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 51   | 16-02-2026 | Prefix Sum Pattern | - | - | - | - | [Notes](https://drive.google.com/file/d/1PWOiZvqdqTNKRgLeZ1G-3vqDobYsOZeE/view?usp=sharing) | 🔁 Revision |
 | 52   | 17-02-2026 | Merge Interval Intro | - | - | - | - | [Notes](https://drive.google.com/file/d/1UrLgGM8c6hvYL7rM06K_Y0r3xU8wpbiL/view?usp=sharing) | ✅ Intro |
 | 53   | 17-02-2026 | Merge Interval | 56. Merge Intervals | LeetCode | [View Problem](https://leetcode.com/problems/merge-intervals/description/) | [Solution](https://leetcode.com/problems/merge-intervals/post-solution/?submissionId=1921857786) | [Notes](https://drive.google.com/file/d/1fS0zDYFEnsNXs6i8t2J-JBCxm_jyGbv8/view?usp=sharing) | ✅ Solved |
+| 54   | 18-02-2026 | Merge Interval | 57. Insert Intervals | LeetCode | [View Problem](https://leetcode.com/problems/insert-interval/description/) | [Solution](https://leetcode.com/problems/insert-interval/post-solution/?submissionId=1922926620) | [Notes](https://drive.google.com/file/d/1CBn_UEFs_YQppwO5oppjp17FNzy73iu9/view?usp=sharing) | ✅ Solved |
 <!-- Add new rows below this line -->
 ---
 
