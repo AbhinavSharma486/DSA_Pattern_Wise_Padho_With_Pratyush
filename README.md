@@ -61,6 +61,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 49   | 14-02-2026 | Prefix Sum Pattern | 974. Subarray Sums Divisible by K | LeetCode | [View Problem](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) | [Solution](https://leetcode.com/problems/subarray-sums-divisible-by-k/post-solution/?submissionId=1918790275) | [Notes](https://drive.google.com/file/d/1-HXRtrimVjwkD-4mNfHulIGKwqfeIHrv/view?usp=sharing) | ✅ Solved |
 | 50   | 15-02-2026 | Prefix Sum Pattern | 525. Contiguous Array | LeetCode | [View Problem](https://leetcode.com/problems/contiguous-array/description/) | [Solution](https://leetcode.com/problems/contiguous-array/post-solution/?submissionId=1920221620) | [Notes](https://drive.google.com/file/d/1RlhtXKq3vY7k0pH-E9i8Hqp3uNulmIQk/view?usp=sharing) | ✅ Solved |
 | 51   | 16-02-2026 | Prefix Sum Pattern | - | - | - | - | [Notes](https://drive.google.com/file/d/1PWOiZvqdqTNKRgLeZ1G-3vqDobYsOZeE/view?usp=sharing) | 🔁 Revision |
+| 52   | 17-02-2026 | Merge Interval Intro | - | - | - | - | [Notes](https://drive.google.com/file/d/1UrLgGM8c6hvYL7rM06K_Y0r3xU8wpbiL/view?usp=sharing) | ✅ Intro |
 <!-- Add new rows below this line -->
 ---
 
