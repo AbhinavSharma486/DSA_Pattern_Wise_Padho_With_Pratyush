@@ -64,6 +64,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 52   | 17-02-2026 | Merge Interval Intro | - | - | - | - | [Notes](https://drive.google.com/file/d/1UrLgGM8c6hvYL7rM06K_Y0r3xU8wpbiL/view?usp=sharing) | ✅ Intro |
 | 53   | 17-02-2026 | Merge Interval | 56. Merge Intervals | LeetCode | [View Problem](https://leetcode.com/problems/merge-intervals/description/) | [Solution](https://leetcode.com/problems/merge-intervals/post-solution/?submissionId=1921857786) | [Notes](https://drive.google.com/file/d/1fS0zDYFEnsNXs6i8t2J-JBCxm_jyGbv8/view?usp=sharing) | ✅ Solved |
 | 54   | 18-02-2026 | Merge Interval | 57. Insert Intervals | LeetCode | [View Problem](https://leetcode.com/problems/insert-interval/description/) | [Solution](https://leetcode.com/problems/insert-interval/post-solution/?submissionId=1922926620) | [Notes](https://drive.google.com/file/d/1CBn_UEFs_YQppwO5oppjp17FNzy73iu9/view?usp=sharing) | ✅ Solved |
+| 55   | 19-02-2026 | Merge Interval | 986. Interval List Intersections | LeetCode | [View Problem](https://leetcode.com/problems/interval-list-intersections/description/) | [Solution](https://leetcode.com/problems/interval-list-intersections/post-solution/?submissionId=1924588384) | [Notes](https://drive.google.com/file/d/1RmYVieJPyrnq5PXtFxqtOKjr_KotQTmq/view?usp=sharing) | ✅ Solved |
 <!-- Add new rows below this line -->
 ---
 
