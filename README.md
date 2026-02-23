@@ -68,6 +68,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 56   | 20-02-2026 | Merge Interval | Overlapping Intervals | GFG | [View Problem](https://www.geeksforgeeks.org/problems/overlapping-intervals--174556/0) | - | [Notes](https://drive.google.com/file/d/1Tdtg35WL3z0oi5Kfljhfor1wSm7a98aD/view?usp=sharing) | ✅ Solved |
 | 57   | 21-02-2026 | Merge Interval | Meeting Rooms II | GFG | [View Problem](https://www.geeksforgeeks.org/problems/attend-all-meetings-ii/1) | - | [Notes](https://drive.google.com/file/d/1BU1wPirc95XejGcqe5uHQIZoY4JCfHdY/view?usp=sharing) | ✅ Solved |
 | 58   | 22-02-2026 | Merge Interval Revision | - | - | - | - | [Notes](https://drive.google.com/file/d/1nwy_5q3ctIwghXGFZQnSFXbhJLe7FQ9n/view?usp=sharing) | 🔁 Revision |
+| 59   | 23-02-2026 | Introduction to Stack | - | - | - | - | [Notes](https://drive.google.com/file/d/1UfRObXNTbllL3HIQcYub9fapXvIG_J_i/view?usp=sharing) | ✅ Intro |
 <!-- Add new rows below this line -->
 ---
 
