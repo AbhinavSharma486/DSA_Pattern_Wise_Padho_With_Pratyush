@@ -73,6 +73,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 61   | 25-02-2026 | Stack | 20. Valid Parentheses | LeetCode | [View Problem](https://leetcode.com/problems/valid-parentheses/description/) | [Solution](https://leetcode.com/problems/valid-parentheses/post-solution/?submissionId=1929664168) | [Notes](https://drive.google.com/file/d/17mRiPspxCWHNaxeGfI4-6n72Oy1ffz-t/view?usp=sharing) | ✅ Solved |
 | 62   | 26-02-2026 | Stack | Previous Greater Element | - | - | - | [Notes](https://drive.google.com/file/d/1bTsflieBSvTCRf4MSUpOlm5ODUrgepEA/view?usp=sharing) | ✅ Solved |
 | 63   | 27-02-2026 | Stack | Previous Smaller Element | - | - | - | [Notes](https://drive.google.com/file/d/1ImwdfhTKr8iQAoCYQxW6haJqZbYKLl2w/view?usp=sharing) | ✅ Solved |
+| 64   | 28-02-2026 | Stack | Next Smaller Element | - | - | - | [Notes](https://drive.google.com/file/d/1lkhVU9nUH1EIDsjgHVaHBMQF-3DilQu_/view?usp=sharing) | ✅ Solved |
 <!-- Add new rows below this line -->
 ---
 
