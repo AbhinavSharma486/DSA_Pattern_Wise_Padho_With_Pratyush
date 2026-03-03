@@ -76,6 +76,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 64   | 28-02-2026 | Stack | Next Smaller Element | - | - | - | [Notes](https://drive.google.com/file/d/1lkhVU9nUH1EIDsjgHVaHBMQF-3DilQu_/view?usp=sharing) | ✅ Solved |
 | 65   | 01-03-2026 | Stack | Next Greater Element | - | - | - | [Notes](https://drive.google.com/file/d/1eLTZ01NjU9-2g-5U8ZlQl-eQC-uExWCv/view?usp=sharing) | ✅ Solved |
 | 66   | 02-03-2026 | Stack | 739. Daily Temperatures | LeetCode | [view Problem](https://leetcode.com/problems/daily-temperatures/description/) | [Solution](https://leetcode.com/problems/daily-temperatures/post-solution/?submissionId=1932022773)  | [Notes](https://drive.google.com/file/d/16ogxmu1JpNXXoKCQ3Yd798MLRLNoI9tX/view?usp=sharing) | ✅ Solved |
+| 67   | 03-03-2026 | Stack | 503. Next Greater Element II | LeetCode | [view Problem](https://leetcode.com/problems/next-greater-element-ii/description/) | [Solution](https://leetcode.com/problems/next-greater-element-ii/post-solution/?submissionId=1932880081)  | [Notes](https://drive.google.com/file/d/1NQ4dEY3naDOtQEOrf-rN8vk-wb-k_P53/view?usp=sharing) | ✅ Solved |
 <!-- Add new rows below this line -->
 ---
 
