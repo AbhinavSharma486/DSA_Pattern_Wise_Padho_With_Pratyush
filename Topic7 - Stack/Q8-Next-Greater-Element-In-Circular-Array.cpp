@@ -1,5 +1,5 @@
-// * Question :- Next Greater Element in Circular array
-// & Link :-
+// * Question :- 503. Next Greater Element II
+// & Link :- https://leetcode.com/problems/next-greater-element-ii/description/
 
 #include <iostream>
 #include <stack>
