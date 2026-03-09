@@ -80,6 +80,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 68   | 04-03-2026 | Stack | 1209. Remove All Adjacent Duplicates in String II | LeetCode | [view Problem](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/) | [Solution](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/post-solution/?submissionId=1934695046)  | [Notes](https://drive.google.com/file/d/1DKMGLdkgFjmztYSkL9pWKP4vgKR4d-sx/view?usp=sharing) | ✅ Solved |
 | 69   | 05-03-2026 | Stack | Stack Revision | - | - | -  | [Notes](https://drive.google.com/file/d/1Iverr0xXnteCHVUI4eKLxbhgIFyeF2wC/view?usp=sharing) | ✅ Solved |
 | 70   | 06-03-2026 | Hashmap | Hashmap Introduction | - | - | -  | [Notes](https://drive.google.com/file/d/1Xy13Q6nUudcsoviEW05brc_0z2vtj5oq/view?usp=sharing) | ✅ Solved |
+| 71   | 07-03-2026 | Hashmap | 387. First Unique Character in a String | LeetCode | [View Problem](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [Solution](https://leetcode.com/problems/first-unique-character-in-a-string/post-solution/?submissionId=1937727823)  | [Notes](https://drive.google.com/file/d/1tx0c5WIRWgb6Th5tyxuwObpdarPDslXa/view?usp=sharing) | ✅ Solved |
 <!-- Add new rows below this line -->
 ---
 
