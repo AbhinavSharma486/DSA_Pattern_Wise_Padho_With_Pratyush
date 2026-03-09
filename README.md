@@ -81,6 +81,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 69   | 05-03-2026 | Stack | Stack Revision | - | - | -  | [Notes](https://drive.google.com/file/d/1Iverr0xXnteCHVUI4eKLxbhgIFyeF2wC/view?usp=sharing) | ✅ Solved |
 | 70   | 06-03-2026 | Hashmap | Hashmap Introduction | - | - | -  | [Notes](https://drive.google.com/file/d/1Xy13Q6nUudcsoviEW05brc_0z2vtj5oq/view?usp=sharing) | ✅ Solved |
 | 71   | 07-03-2026 | Hashmap | 387. First Unique Character in a String | LeetCode | [View Problem](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [Solution](https://leetcode.com/problems/first-unique-character-in-a-string/post-solution/?submissionId=1937727823)  | [Notes](https://drive.google.com/file/d/1tx0c5WIRWgb6Th5tyxuwObpdarPDslXa/view?usp=sharing) | ✅ Solved |
+| 72   | 08-03-2026 | Hashmap | 383. Ransom Note | LeetCode | [View Problem](https://leetcode.com/problems/ransom-note/description/) | [Solution](https://leetcode.com/problems/ransom-note/post-solution/?submissionId=1938259406)  | [Notes](https://drive.google.com/file/d/1_wDVeXOtCLb3v0dyJ_ceCsq8-19f9qFI/view?usp=sharing) | ✅ Solved |
 <!-- Add new rows below this line -->
 ---
 
