@@ -19,31 +19,31 @@ public:
 
 Node *reverseList(Node *head)
 {
-  // prev me NULL store kro 
+  // previous hmesha null rhega
+  // iss liye prev ko null kr diya hai
   Node *prev = NULL;
 
-  // curr me head store kro
+  // curr hmesha head pr rhega
   Node *curr = head;
 
-  // jab tak curr NULL nhi ho jaye tab tak
+  // jab tak current null nhi jo jata hai
+  // tab tak while loop chlega
   while (curr != NULL)
   {
-    // nex me current ka next store kr liya hai taki baad me use kr ske
+    // current ka next ko nex me store kr liya hai
+    // taki baad me iss ko access kr ske
     Node *nex = curr->next;
 
-    // current ke next me previous store kr diya hai 
-    // taki current apne next ko point na kr ske 
-    // apne previous ko point kre
+    // current ka next ko previous me store kr diya hai
     curr->next = prev;
 
-    // previous me current store kro
+    // previous ko aage badha do jha abhi current hai
     prev = curr;
 
-    // current me next store kr diya hai
+    // current ko bhe aage badhao
     curr = nex;
   }
 
-  // previous ko return kr diya hai kyuki current to Null ho gya hai 
   return prev;
 }
 
